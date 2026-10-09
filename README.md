@@ -40,40 +40,22 @@ How do I check my current working directory and list all hidden files in termina
 Give me 3 easy multiple-choice quiz questions on JavaScript basics with the answers at the end.
 ```
 
----
-
-## 🧪 Step 2.5: Boxcode Testing Prompts
-
-Explore Boxcode's full capabilities with these targeted prompts. Each prompt is ready to copy and paste directly into Boxcode.
-
----
-
-### 🐍 Prompt 2: Python Code Generation
-
+### 🐍 Prompt 5: Python Code Generation
 ```text
 Write a Python program that checks whether a number is prime. Explain the logic and show sample input and output.
 ```
 
----
-
-### 🤖 Prompt 4: AI/ML Project Ideas
-
+### 🤖 Prompt 6: AI/ML Project Ideas
 ```text
 Suggest 5 practical AI/ML mini-projects for college students. For each, include the problem, proposed solution, and suggested tech stack.
 ```
 
----
-
-### 📝 Prompt 6: Text Summarization
-
+### 📝 Prompt 7: Text Summarization
 ```text
 Summarize the following in 3 bullet points: "Artificial intelligence enables computers to perform tasks that typically require human intelligence. Machine learning is a branch of AI that learns patterns from data. Deep learning uses multi-layered neural networks to solve complex problems."
 ```
 
----
-
 ### 🎨 Prompt 8: Creative Content
-
 ```text
 Write a short, funny conversation between a student and an AI coding assistant who keeps finding bugs in the student's code. Use 8 dialogue lines.
 ```
