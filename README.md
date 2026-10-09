@@ -16,7 +16,7 @@ Follow the official step-by-step installation guides below to set up Boxcode on 
 
 ---
 
-## ⚡ Step 2: Quick Warmup Prompts
+## ⚡ Step 2: Quick Warmup Prompts (Boxcode CLI)
 
 Try these simple prompts in Boxcode to explore its capabilities:
 
@@ -62,7 +62,7 @@ Write a short, funny conversation between a student and an AI coding assistant w
 
 ---
 
-## 🎯 Step 3: Main Project — ResearchAI Assistant
+## 🎯 Step 3: Main Project — ResearchAI Assistant (Boxcode IDE)
 
 ### ❓ Part A: Research Challenges & Problem Analysis
 
